@@ -7,3 +7,8 @@ First Django app
 * https://docs.djangoproject.com/en/dev/intro/
 * http://www.djangobook.com/en/2.0/chapter01/
 
+* python manage.py runserver
+* virtualenv
+* pip
+
+
