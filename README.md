@@ -10,5 +10,5 @@ First Django app
 * python manage.py runserver
 * virtualenv
 * pip
-
+* (venv)➜  hellodjango git:(master) source venv/bin/activate
 
